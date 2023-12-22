@@ -1,0 +1,23 @@
+﻿SQLServer lab
+Note: Use ITI DB
+
+
+1.  Create a multi-statements table-valued function that takes 2 integers and returns the values between them.
+
+
+2.  Create inline function that takes Student No and returns Department Name with Student full name.
+
+
+3. Create a scalar function that takes Student ID and returns a message to user 
+1. If first name and Last name are null then display 'First name & last name are null'
+2. If First name is null then display 'first name is null'
+3. If Last name is null then display 'last name is null'
+4. Else display 'First name & last name are not null'
+
+
+4. Create inline function that takes integer which represents manager ID and displays department name, Manager Name and hiring date 
+5. Create multi-statements table-valued function that takes a string
+If string='first name' returns student first name
+If string='last name' returns student last name 
+If string='full name' returns Full Name from student table 
+Note: Use “ISNULL” function
