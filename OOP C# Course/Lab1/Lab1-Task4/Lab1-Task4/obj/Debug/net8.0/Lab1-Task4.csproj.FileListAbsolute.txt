@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\bin\Debug\net8.0\Lab1-Task4.exe
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\bin\Debug\net8.0\Lab1-Task4.deps.json
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\bin\Debug\net8.0\Lab1-Task4.runtimeconfig.json
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\bin\Debug\net8.0\Lab1-Task4.dll
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\bin\Debug\net8.0\Lab1-Task4.pdb
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\obj\Debug\net8.0\Lab1-Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\obj\Debug\net8.0\Lab1-Task4.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\obj\Debug\net8.0\Lab1-Task4.AssemblyInfo.cs
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\obj\Debug\net8.0\Lab1-Task4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\obj\Debug\net8.0\Lab1-Task4.dll
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\obj\Debug\net8.0\refint\Lab1-Task4.dll
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\obj\Debug\net8.0\Lab1-Task4.pdb
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\obj\Debug\net8.0\Lab1-Task4.genruntimeconfig.cache
+C:\Users\USER\Desktop\OOP C# Course\Lab1-Task4\Lab1-Task4\obj\Debug\net8.0\ref\Lab1-Task4.dll

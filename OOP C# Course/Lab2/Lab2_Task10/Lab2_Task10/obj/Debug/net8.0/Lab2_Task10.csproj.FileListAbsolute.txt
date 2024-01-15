@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\bin\Debug\net8.0\Lab2_Task10.exe
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\bin\Debug\net8.0\Lab2_Task10.deps.json
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\bin\Debug\net8.0\Lab2_Task10.runtimeconfig.json
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\bin\Debug\net8.0\Lab2_Task10.dll
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\bin\Debug\net8.0\Lab2_Task10.pdb
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\obj\Debug\net8.0\Lab2_Task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\obj\Debug\net8.0\Lab2_Task10.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\obj\Debug\net8.0\Lab2_Task10.AssemblyInfo.cs
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\obj\Debug\net8.0\Lab2_Task10.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\obj\Debug\net8.0\Lab2_Task10.dll
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\obj\Debug\net8.0\refint\Lab2_Task10.dll
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\obj\Debug\net8.0\Lab2_Task10.pdb
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\obj\Debug\net8.0\Lab2_Task10.genruntimeconfig.cache
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task10\Lab2_Task10\obj\Debug\net8.0\ref\Lab2_Task10.dll

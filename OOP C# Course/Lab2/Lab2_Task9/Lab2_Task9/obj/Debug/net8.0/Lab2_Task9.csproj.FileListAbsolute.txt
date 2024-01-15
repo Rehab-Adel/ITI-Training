@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\obj\Debug\net8.0\Lab2_Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\obj\Debug\net8.0\Lab2_Task9.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\obj\Debug\net8.0\Lab2_Task9.AssemblyInfo.cs
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\obj\Debug\net8.0\Lab2_Task9.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\bin\Debug\net8.0\Lab2_Task9.exe
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\bin\Debug\net8.0\Lab2_Task9.deps.json
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\bin\Debug\net8.0\Lab2_Task9.runtimeconfig.json
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\bin\Debug\net8.0\Lab2_Task9.dll
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\bin\Debug\net8.0\Lab2_Task9.pdb
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\obj\Debug\net8.0\Lab2_Task9.dll
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\obj\Debug\net8.0\refint\Lab2_Task9.dll
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\obj\Debug\net8.0\Lab2_Task9.pdb
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\obj\Debug\net8.0\Lab2_Task9.genruntimeconfig.cache
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task9\Lab2_Task9\obj\Debug\net8.0\ref\Lab2_Task9.dll

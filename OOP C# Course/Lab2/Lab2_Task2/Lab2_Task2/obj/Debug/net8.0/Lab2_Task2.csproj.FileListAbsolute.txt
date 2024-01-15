@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\bin\Debug\net8.0\Lab2_Task2.exe
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\bin\Debug\net8.0\Lab2_Task2.deps.json
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\bin\Debug\net8.0\Lab2_Task2.runtimeconfig.json
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\bin\Debug\net8.0\Lab2_Task2.dll
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\bin\Debug\net8.0\Lab2_Task2.pdb
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\obj\Debug\net8.0\Lab2_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\obj\Debug\net8.0\Lab2_Task2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\obj\Debug\net8.0\Lab2_Task2.AssemblyInfo.cs
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\obj\Debug\net8.0\Lab2_Task2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\obj\Debug\net8.0\Lab2_Task2.dll
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\obj\Debug\net8.0\refint\Lab2_Task2.dll
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\obj\Debug\net8.0\Lab2_Task2.pdb
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\obj\Debug\net8.0\Lab2_Task2.genruntimeconfig.cache
+C:\Users\USER\Desktop\OOP C# Course\Lab2_Task2\Lab2_Task2\obj\Debug\net8.0\ref\Lab2_Task2.dll
