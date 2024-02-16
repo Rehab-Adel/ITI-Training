@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\bin\Debug\net8.0\Lab4-Task.exe
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\bin\Debug\net8.0\Lab4-Task.deps.json
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\bin\Debug\net8.0\Lab4-Task.runtimeconfig.json
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\bin\Debug\net8.0\Lab4-Task.dll
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\bin\Debug\net8.0\Lab4-Task.pdb
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\obj\Debug\net8.0\Lab4-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\obj\Debug\net8.0\Lab4-Task.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\obj\Debug\net8.0\Lab4-Task.AssemblyInfo.cs
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\obj\Debug\net8.0\Lab4-Task.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\obj\Debug\net8.0\Lab4-Task.sourcelink.json
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\obj\Debug\net8.0\Lab4-Task.dll
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\obj\Debug\net8.0\refint\Lab4-Task.dll
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\obj\Debug\net8.0\Lab4-Task.pdb
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\obj\Debug\net8.0\Lab4-Task.genruntimeconfig.cache
+C:\Users\USER\Desktop\OOP .NET\Lab4-Task\Lab4-Task\obj\Debug\net8.0\ref\Lab4-Task.dll

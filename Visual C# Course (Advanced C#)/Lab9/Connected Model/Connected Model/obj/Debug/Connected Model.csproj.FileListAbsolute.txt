@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\bin\Debug\Connected Model.exe.config
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\bin\Debug\Connected Model.exe
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\bin\Debug\Connected Model.pdb
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\obj\Debug\Connected Model.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\obj\Debug\Connected_Model.Form1.resources
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\obj\Debug\Connected_Model.Properties.Resources.resources
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\obj\Debug\Connected Model.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\obj\Debug\Connected Model.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\obj\Debug\Connected Model.csproj.CopyComplete
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\obj\Debug\Connected Model.exe
+C:\Users\USER\Desktop\OOP .NET\Lab9\Connected Model\Connected Model\obj\Debug\Connected Model.pdb

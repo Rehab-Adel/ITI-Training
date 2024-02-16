@@ -1,0 +1,32 @@
+D:\iti tasks\c#\tasks\session6_widowsApplication\bin\Debug\net8.0-windows\session6_widowsApplication.exe
+D:\iti tasks\c#\tasks\session6_widowsApplication\bin\Debug\net8.0-windows\session6_widowsApplication.deps.json
+D:\iti tasks\c#\tasks\session6_widowsApplication\bin\Debug\net8.0-windows\session6_widowsApplication.runtimeconfig.json
+D:\iti tasks\c#\tasks\session6_widowsApplication\bin\Debug\net8.0-windows\session6_widowsApplication.dll
+D:\iti tasks\c#\tasks\session6_widowsApplication\bin\Debug\net8.0-windows\session6_widowsApplication.pdb
+D:\iti tasks\c#\tasks\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.Form1.resources
+D:\iti tasks\c#\tasks\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.csproj.GenerateResource.cache
+D:\iti tasks\c#\tasks\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti tasks\c#\tasks\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.AssemblyInfoInputs.cache
+D:\iti tasks\c#\tasks\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.AssemblyInfo.cs
+D:\iti tasks\c#\tasks\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.csproj.CoreCompileInputs.cache
+D:\iti tasks\c#\tasks\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.dll
+D:\iti tasks\c#\tasks\session6_widowsApplication\obj\Debug\net8.0-windows\refint\session6_widowsApplication.dll
+D:\iti tasks\c#\tasks\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.pdb
+D:\iti tasks\c#\tasks\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.genruntimeconfig.cache
+D:\iti tasks\c#\tasks\session6_widowsApplication\obj\Debug\net8.0-windows\ref\session6_widowsApplication.dll
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\bin\Debug\net8.0-windows\session6_widowsApplication.exe
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\bin\Debug\net8.0-windows\session6_widowsApplication.deps.json
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\bin\Debug\net8.0-windows\session6_widowsApplication.runtimeconfig.json
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\bin\Debug\net8.0-windows\session6_widowsApplication.dll
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\bin\Debug\net8.0-windows\session6_widowsApplication.pdb
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.Form1.resources
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.AssemblyInfo.cs
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.dll
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\obj\Debug\net8.0-windows\refint\session6_widowsApplication.dll
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.pdb
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\obj\Debug\net8.0-windows\session6_widowsApplication.genruntimeconfig.cache
+C:\Users\USER\Downloads\Day 6\Abdelrahman Shalaby\session6_widowsApplication\obj\Debug\net8.0-windows\ref\session6_widowsApplication.dll
